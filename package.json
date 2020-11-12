@@ -1,0 +1,21 @@
+{
+  "name": "ol-doc-zh",
+  "version": "6.4.3",
+  "description": "OpenLayers v6.4.3 中文文档",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "openLayer"
+  ],
+  "author": "断风尘 <jinwen_li2012@163.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.7.1",
+    "@vuepress/plugin-active-header-links": "^1.5.3",
+    "@vuepress/plugin-back-to-top": "^1.5.4",
+    "vuepress-plugin-demo-container": "^0.2.0"
+  }
+}
