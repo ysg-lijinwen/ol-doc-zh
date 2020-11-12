@@ -9,7 +9,7 @@
 
 拉取项目源码：`git clone https://github.com/ysg-lijinwen/ol-doc-zh.git`
 
-### 项目运行
+## 运行项目
 
 ### 安装项目依赖
 1. cd到ol-doc-zh项目目录下；
