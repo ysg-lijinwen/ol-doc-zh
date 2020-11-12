@@ -1,6 +1,9 @@
 # OpenLayers说明文档汉化版
 此项目用于维护OpenLayers说明文档的翻译。
 
+- [OpenLayers官方网站](https://openlayers.org/)
+- [OpenLayers官方接口文档](https://openlayers.org/en/latest/apidoc/)
+
 ## 获取项目
 仓库地址：`https://github.com/ysg-lijinwen/ol-doc-zh.git`
 
