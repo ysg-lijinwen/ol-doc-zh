@@ -1,6 +1,6 @@
 module.exports = {
   base: "/odc/",//部署站点的基础路径
-  title: 'OpenLayers',
+  title: 'OpenLayers(汉)',
   description: 'Just playing around',
   head: [
     ['link', { rel: 'icon', href: '/hero.png' }]
@@ -25,7 +25,7 @@ module.exports = {
     // 作为特例，默认语言可以使用 '/' 作为其路径。
     '/': {
       lang: 'zh-CN',
-      title: 'OpenLayers',
+      title: 'OpenLayers(汉)',
       description: 'OpenLayers中文文档'
     },
     // '/en/': {
